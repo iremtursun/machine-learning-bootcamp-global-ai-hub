@@ -28,3 +28,14 @@ SVM, Lojistik Regresyon ve Karar Ağacı modelleri üzerinden datamızın %80'i 
 
 **SONUÇ**
 
+**KAYNAKLAR**
+
+1. https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data
+2. https://bulutistan.com/blog/lojistik-regresyon-nedir/
+3. https://github.com/gokerguner/example-repo/blob/main/supervised.ipynb
+4. https://www.kaggle.com/code/goker67/everything-on-gpu-ml-with-cuml-polars-cupy
+5. https://ravenfo.com/2021/02/11/aykiri-deger-analizi/
+6. https://www.grammarly.com/blog/ai/what-is-decision-tree/
+7. https://www.unite.ai/tr/what-are-support-vector-machines/
+8. https://cmap-repos.github.io/cmapplot/articles/colors.html
+9. https://gokerguner.medium.com/machine-learning-1-7d4581caa291
