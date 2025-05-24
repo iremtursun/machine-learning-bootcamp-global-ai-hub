@@ -16,9 +16,9 @@ Ayrıca bu data .csv dosyasından ilk okunan değerlere göre 23 sütun, 145.460
 
 Buradaki amacımız ana etkenlere bağlı kalarak "Avustralya'da yarın yağmur yağacak mı?" sorusunu tahminleyen modeli oluşturmaktır. Bu bir sınıflandırma problemi olduğu için Karar Ağaçları, SVM ve Lojistik Regresyon modelleri arasındaki değerlendirmeleri inceleyeceğiz.
 
-**UYGULAMA**,
+**UYGULAMA**
 
-Uygulama aşamasında belirli başlıklar altında işlemlerimizi gerçekleştirdiğimiz faaliyet kısmıdır. Öncelikle notebook üzerinden keşifsel veri analizi yaptık, verilerimizi ve değişkenlerimizi tanıdık. Ardından temel betimleyici istatistikleri sunarak markdown üzerinden tanımlamalar sunduk.
+Uygulama aşaması, belirli başlıklar altında işlemlerimizi gerçekleştirdiğimiz faaliyet kısmıdır. Öncelikle notebook üzerinden keşifsel veri analizi yaptık, verilerimizi ve değişkenlerimizi tanıdık. Ardından temel betimleyici istatistikleri sunarak markdown üzerinden tanımlamalar sunduk.
 
 Makine öğrenmesi modellerinin iyi performans gösterebilmesi için datanın ön işlemden geçmesi gerekir. Preprocessing işlemlerini yaparak kategorik ve float değerlerimiz için ayrı ayrı çalıştık. Kategorik değişkenler için LabelEncoding yaparak NaN değerleri doldurduk; benzerini float değerler için de yaparak NaN/eksik değerlerin belirlenmesi, doldurulması, aykırı değerlerin bulunması ve çözümlenmesi gibi birçok adımdan oluşturduk. Herbir işlemi grafiksel çizimlerle destekledik.
 
