@@ -31,7 +31,8 @@ SVM, Lojistik Regresyon ve Karar Ağacı modelleri üzerinden datamızın **%80'
 
 **SONUÇ**
 
-Çapraz doğrulama yaptığımız yukarıdaki modeller için en uygunu **destek vektör makineleri** oldu. Hem doğrulama (accuracy) değerinin yüksek olması hem de "evet" ile "hayır" cevaplarına kıyasla en iyi precision, recall, F1-score değerleri yüksek geldi. Geliştirmek için hiperparametre optimizasyonu yaparak bu modelin kullanılabilirliğini test etmiş olduk.
+Çapraz doğrulama yaptığımız yukarıdaki modeller için en uygunu **destek vektör makineleri** oldu. Hem doğrulama (accuracy) değerinin yüksek olması hem de "evet" ile "hayır" cevaplarına kıyasla en iyi precision, recall, F1-score değerleri yüksek geldi. Geliştirmek için hiperparametre optimizasyonu yaparak bu modelin kullanılabilirliğini test etmiş olduk. Burada Kaggle ortamının CPU'sunu deneyerek 150.000'e yakın veri üzerinde çalıştık.
+
 
 Bunun yanı sıra **RainTomorrow** değişkeni ile günlük olarak tutulan değerler için **maksimum sıcaklık, güneş ışığı miktarı, rüzgarın esme hızı, sabah 9 - öğlen 3 nem ve basınç miktarları ve öğlen 3'teki sıcaklık miktarı** arasında ilişkiler olduğu görülmüştür.
 
