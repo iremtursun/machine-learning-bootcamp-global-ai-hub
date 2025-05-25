@@ -8,7 +8,8 @@
 Akbank ve Global AI Hub işbirliğinde hazırlanan Makine Öğrenmesine Giriş Bootcamp'ine proje konusu olarak dahil edeceğim Avustralya'da yağan yağmurların günlük verilerine ulaşabileceğimiz bir dataset üzerinden projeyi oluşturacağız. Kapsam dahilinde makine öğrenmesi algoritmalarından denetimli öğrenme çeşitlerini inceleyecek ve modellerin doğruluk, kesinlik, tahmini değerlerine göre yorumlarda bulunacağız.
 
 Notebook ve dataset erişimi için kullanabileceğiniz Kaggle linki<sup>*</sup>: https://www.kaggle.com/code/iremtursun/machine-learning-bootcamp-global-ai-hub
-<sup>2</sup> CPU tam dolması ve RAM'in yavaşlaması nedeniyle son 3 konu output'ları alınmış ama Kaggle üzerinden sistem kaydedememiştir. GitHub'da ki notebook çıktıları tam şekilde yüklenmiştir.
+
+<sup>*</sup> *CPU tam dolması ve RAM'in yavaşlaması nedeniyle son 3 konu output'ları alınmış ama Kaggle üzerinden sistem kaydedememiştir. GitHub'da ki notebook çıktıları tam şekilde yüklenmiştir.*
 
 Veri setini almak için kullandığım kaynak: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data
 
